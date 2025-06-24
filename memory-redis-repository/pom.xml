@@ -10,6 +10,8 @@
   </parent>
 
   <artifactId>memory-redis-repository</artifactId>
+  <name>memory-redis-repository</name>
+  <description>memory-redis-repository</description>
 
   <properties>
     <maven.compiler.source>21</maven.compiler.source>
